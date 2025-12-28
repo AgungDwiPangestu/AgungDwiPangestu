@@ -42,10 +42,10 @@ OTW
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/agungdwipangestu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:agungpangestu960@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/agung_pangestuu04 target="_blank">
