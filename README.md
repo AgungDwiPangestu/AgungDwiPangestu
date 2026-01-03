@@ -73,13 +73,12 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apguns&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=apguns&theme=radical&hide_border=true" alt="streak" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=apguns&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=apguns&theme=radical&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apguns&layout=compact&theme=radical&hide_border=true" alt="top langs" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=apguns&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apguns&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
 ---
