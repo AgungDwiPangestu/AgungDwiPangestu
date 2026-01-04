@@ -69,16 +69,20 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apguns&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=apguns&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophy" />
+</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apguns&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apguns&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apguns&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=apguns&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=apguns&theme=radical&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apguns&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apguns&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="activity graph" />
 </p>
 
 ---
@@ -101,10 +105,10 @@
 ## 🌐 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://linkedin.com/in/agungdwipangestu/" target="_blank">
+  <a href="https://linkedin.com/in/agungdwipangestu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:agungpangestu960@gmail.com" target="_blank">
+  <a href="mailto:agungpangestu960@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/agung_pangestuu04" target="_blank">
