@@ -18,7 +18,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🎓 **Student** at **Universitas Teknologi Digital Indonesia**
-- 💡 **Passionate** about **Web Development**, **AI**, and **Data Analysis**
+- 💡 **Passionate** about **Web Development**, **Machine Learning**, and **Data Analysis**
 - 🌱 **Currently Learning**: **R**, **MySQL**, and **Python**
 - 🔭 **Working on**: A web app that blends AI + Fashion 👗🧠
 - 💬 **Ask me about**: PHP, Laravel, Python, MySQL
