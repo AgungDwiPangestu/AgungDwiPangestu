@@ -95,6 +95,7 @@
 
 <p>I'm currently working on some exciting projects that blend AI with real-world applications!</p>
 <p>🌟 <b>AI + Fashion Web App</b> - Stay tuned for updates!</p>
+<p>Update Readme HEHEHEHE!</p>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
