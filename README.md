@@ -20,7 +20,6 @@
 - 🎓 **Student** at **Universitas Teknologi Digital Indonesia**
 - 💡 **Passionate** about **Web Development**, **Machine Learning**, and **Data Analysis**
 - 🌱 **Currently Learning**: **R**, **MySQL**, and **Python**
-- 🔭 **Working on**: A web app that blends AI + Fashion 👗🧠
 - 💬 **Ask me about**: PHP, Laravel, Python, MySQL
 - 🎯 **2026 Goal**: Master AI/ML and build impactful projects
 - ⚡ **Fun Fact**: I code better with coffee ☕
